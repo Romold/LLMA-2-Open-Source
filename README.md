@@ -2,7 +2,7 @@
 
 This chatbot is created using the open-source Llama 2 LLM model from Meta.
 
-Particularly, we're using the [**Llama2-7B**](https://replicate.com/a16z-infra/llama7b-v2-chat) model deployed by the Andreessen Horowitz (a16z) team and hosted on the [Replicate](https://replicate.com/) platform.
+Particularly, I am using the [**Llama2-7B**](https://replicate.com/a16z-infra/llama7b-v2-chat) model deployed by the Andreessen Horowitz (a16z) team and hosted on the [Replicate](https://replicate.com/) platform.
 
 This app was refactored from [a16z's implementation](https://github.com/a16z-infra/llama2-chatbot) of their [LLaMA2 Chatbot](https://www.llama2.ai/) to be light-weight for deployment to the [Streamlit Community Cloud](https://streamlit.io/cloud).
 
@@ -37,3 +37,10 @@ You can also try out the larger models:
 - [Llama 2 blog](https://ai.meta.com/blog/llama-2/)
 - [Llama 2 research article](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
 - [Llama 2 GitHub repo](https://github.com/facebookresearch/llama/tree/main)
+
+## Author Info 
+
+| Author              | Links            |
+| :-----------------: | :--------------: |
+| Romold Perera | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Romold) [![Kaggle Badge](https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/neonboy19) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romold-perera-b046a3261/) |
+
