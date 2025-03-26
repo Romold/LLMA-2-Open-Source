@@ -38,9 +38,4 @@ You can also try out the larger models:
 - [Llama 2 research article](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
 - [Llama 2 GitHub repo](https://github.com/facebookresearch/llama/tree/main)
 
-## Author Info 
-
-| Author              | Links            |
-| :-----------------: | :--------------: |
-| Romold Perera | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Romold) [![Kaggle Badge](https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/neonboy19) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romold-perera-b046a3261/) |
 
